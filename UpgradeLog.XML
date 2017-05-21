@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cross Sums">
+</Property><Property Name="Solution File" Value="G:\Cross Sums\Cross Sums.sln">
+</Property><Property Name="User Options File" Value="G:\Cross Sums\Cross Sums.suo">
+</Property><Property Name="Date" Value="Friday, December 19, 2014">
+</Property><Property Name="Time" Value="9:38 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Cross Sums.sln" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Cross Sums.suo" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums.suo">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Cross Sums.csproj" Description="Project file successfully backed up as G:\Cross Sums\Backup\Cross Sums\Cross Sums.csproj">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Cross Sums.csproj.user" Description="Project user file successfully backed up as G:\Cross Sums\Backup\Cross Sums\Cross Sums.csproj.user">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\OpenCellSquare.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\OpenCellSquare.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\CrossSumsGraphics.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\CrossSumsGraphics.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\tools\CellGroupToolkit.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\tools\CellGroupToolkit.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\tools\DebugLog.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\tools\DebugLog.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\BaseTypes.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\BaseTypes.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\CellSolutionInfo.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\CellSolutionInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\Coordinates.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\Coordinates.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\SolutionInfo.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\SolutionInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\tools\Randomizer.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\tools\Randomizer.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\SumCell.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\SumCell.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\ICell.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\ICell.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\CrossSumsMatrix.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\CrossSumsMatrix.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\OpenCell.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\OpenCell.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\CrossSumsForm.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\CrossSumsForm.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\CrossSumsForm.Designer.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\CrossSumsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Program.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Program.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\CellGroup.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\CellGroup.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\tools\RecursiveSolver.cs" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\tools\RecursiveSolver.cs">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\app.config" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\app.config">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Cross Sums_TemporaryKey.pfx" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Cross Sums_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Properties\Settings.settings" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\CrossSumsForm.resx" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\CrossSumsForm.resx">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Properties\Resources.resx" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\types\OpenCell.resx" Description="File successfully backed up as G:\Cross Sums\Backup\Cross Sums\types\OpenCell.resx">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Cross Sums.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Cross Sums" Source="Cross Sums\Cross Sums.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cross Sums.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Cross Sums.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cross Sums" Source="Cross Sums\Cross Sums.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

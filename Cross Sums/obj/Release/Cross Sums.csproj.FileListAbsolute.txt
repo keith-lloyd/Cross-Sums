@@ -1,0 +1,14 @@
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross_Sums.CrossSumsForm.resources
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross_Sums.Properties.Resources.resources
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross Sums.csproj.GenerateResource.Cache
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Release\Cross Sums.exe
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Release\Cross Sums.pdb
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross Sums.exe
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross Sums.pdb
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Release\Cross Sums.exe.manifest
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Release\Cross Sums.application
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross Sums.exe.manifest
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross Sums.application
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Release\Cross_Sums.OpenCell.resources
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Release\Cross Sums.exe.config

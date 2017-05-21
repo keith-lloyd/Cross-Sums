@@ -1,0 +1,58 @@
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.pdb
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.Properties.Resources.resources
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.csproj.GenerateResource.Cache
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.pdb
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.CrossSumsForm.resources
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.pdb
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.pdb
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.CrossSumsForm.resources
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.Properties.Resources.resources
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.csproj.GenerateResource.Cache
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.manifest
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.application
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe.manifest
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.application
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.OpenCell.resources
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.manifest
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.application
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.OpenCell.resources
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe.manifest
+C:\Users\USWU38050\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\obj\Debug\Cross Sums.application
+C:\Users\Writing\Documents\Visual Studio 2008\Projects\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.config
+G:\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.config
+G:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe
+G:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.pdb
+G:\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.manifest
+G:\Cross Sums\Cross Sums\bin\Debug\Cross Sums.application
+G:\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe
+G:\Cross Sums\Cross Sums\bin\Debug\Cross Sums.pdb
+G:\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.CrossSumsForm.resources
+G:\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.Properties.Resources.resources
+G:\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.OpenCell.resources
+G:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.csproj.GenerateResource.Cache
+G:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe.manifest
+G:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.application
+G:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.csprojResolveAssemblyReference.cache
+F:\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.config
+F:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe
+F:\Cross Sums\Cross Sums\obj\Debug\Cross Sums.pdb
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.config
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross Sums.pdb
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross Sums.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.CrossSumsForm.resources
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.Properties.Resources.resources
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross_Sums.OpenCell.resources
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross Sums.csproj.GenerateResource.Cache
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe.manifest
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\bin\Debug\Cross Sums.application
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\bin\Debug\Cross Sums.exe
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\bin\Debug\Cross Sums.pdb
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross Sums.exe.manifest
+C:\Users\Keith\Desktop\Cross Sums\Cross Sums\obj\Debug\Cross Sums.application
